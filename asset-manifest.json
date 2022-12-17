@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/MaulaveStephane/static/css/main.4b6a21c0.css",
-    "main.js": "/MaulaveStephane/static/js/main.9f1e65eb.js",
+    "main.css": "/MaulaveStephane/static/css/main.a0b50d50.css",
+    "main.js": "/MaulaveStephane/static/js/main.d72c5fef.js",
+    "static/media/hero-background.jpg": "/MaulaveStephane/static/media/hero-background.321652d72f741d1c45b0.jpg",
     "static/media/fa-solid-900.ttf": "/MaulaveStephane/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/anim_screenshot.png": "/MaulaveStephane/static/media/anim_screenshot.2ce6d89df9ecf3e2acdd.png",
     "static/media/scroll_screenshot.png": "/MaulaveStephane/static/media/scroll_screenshot.b21f3e12779603460d36.png",
@@ -9,6 +10,7 @@
     "static/media/fa-brands-400.ttf": "/MaulaveStephane/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
     "static/media/fa-solid-900.woff2": "/MaulaveStephane/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
     "static/media/calculate_screenshot.png": "/MaulaveStephane/static/media/calculate_screenshot.faa22976a3fcc3633a17.png",
+    "static/media/vertical-porsche.jpg": "/MaulaveStephane/static/media/vertical-porsche.8c2335046aab30c04860.jpg",
     "static/media/Quizz_screenshot.png": "/MaulaveStephane/static/media/Quizz_screenshot.0cfdc85d814ac4e4ef71.png",
     "static/media/capture-code.webp": "/MaulaveStephane/static/media/capture-code.1cea7cfaf5e0add86856.webp",
     "static/media/video_screenshot.png": "/MaulaveStephane/static/media/video_screenshot.a8b73b99a3cb13b02d29.png",
@@ -16,9 +18,11 @@
     "static/media/filtre_screenshot.png": "/MaulaveStephane/static/media/filtre_screenshot.e8379c7b9106448d30ab.png",
     "static/media/wiki_screenshot.png": "/MaulaveStephane/static/media/wiki_screenshot.1fd52d75a90444f04495.png",
     "static/media/photo_profil.webp": "/MaulaveStephane/static/media/photo_profil.252a1924b97220836610.webp",
+    "static/media/side-3.jpg": "/MaulaveStephane/static/media/side-3.dfc8f0c65b29f5bb1130.jpg",
     "static/media/113-urgence.webp": "/MaulaveStephane/static/media/113-urgence.9115611d04f9e9aefa53.webp",
     "static/media/cookies_screenshot.png": "/MaulaveStephane/static/media/cookies_screenshot.a15b29c4f7a803e8ee46.png",
     "static/media/audio_screenshot.png": "/MaulaveStephane/static/media/audio_screenshot.1ee2653ede26530a8513.png",
+    "static/media/side-2.jpg": "/MaulaveStephane/static/media/side-2.50b92d3202df9aedf830.jpg",
     "static/media/slider_screenshot.png": "/MaulaveStephane/static/media/slider_screenshot.2dcfd3f01f491c3cbb2c.png",
     "static/media/passi-revolution.webp": "/MaulaveStephane/static/media/passi-revolution.5f032a493e003460a323.webp",
     "static/media/memory_screenshot.png": "/MaulaveStephane/static/media/memory_screenshot.3195a10e4c922b758cc0.png",
@@ -27,6 +31,7 @@
     "static/media/logo_K_rouge.webp": "/MaulaveStephane/static/media/logo_K_rouge.991a29a67dcfa084cef7.webp",
     "static/media/morpion_screenshot.png": "/MaulaveStephane/static/media/morpion_screenshot.dfe99b4a44e34df6d074.png",
     "static/media/bisso.webp": "/MaulaveStephane/static/media/bisso.04d926e54c48d7ccd2c9.webp",
+    "static/media/side-1.jpg": "/MaulaveStephane/static/media/side-1.889413005e5e11194636.jpg",
     "static/media/topdepart.webp": "/MaulaveStephane/static/media/topdepart.c821932e78b1955c929f.webp",
     "static/media/hiphopee1.webp": "/MaulaveStephane/static/media/hiphopee1.60dc1e2ee2a18ecc58d8.webp",
     "static/media/Grave-dans-la-roche.webp": "/MaulaveStephane/static/media/Grave-dans-la-roche.e45ec7f9453ec1cc7a25.webp",
@@ -55,13 +60,15 @@
     "static/media/search.svg": "/MaulaveStephane/static/media/search.36d1973020f64935271eb087d53241bd.svg",
     "static/media/dashboard.svg": "/MaulaveStephane/static/media/dashboard.037848460a6e25cccef6d99bceb780de.svg",
     "static/media/speech-bubble.svg": "/MaulaveStephane/static/media/speech-bubble.696dfbdf8508e1c02faeef9f143022de.svg",
+    "static/media/down-arrow.svg": "/MaulaveStephane/static/media/down-arrow.bd2d6e366d5eea4c0b5355a23f636d5f.svg",
     "index.html": "/MaulaveStephane/index.html",
     "static/media/question.svg": "/MaulaveStephane/static/media/question.265092aedf4bcdd5b8bd6b1cdd822681.svg",
-    "main.4b6a21c0.css.map": "/MaulaveStephane/static/css/main.4b6a21c0.css.map",
-    "main.9f1e65eb.js.map": "/MaulaveStephane/static/js/main.9f1e65eb.js.map"
+    "static/media/right-chevron.svg": "/MaulaveStephane/static/media/right-chevron.32d2551ab7b1b6e5ea74710cd070a674.svg",
+    "main.a0b50d50.css.map": "/MaulaveStephane/static/css/main.a0b50d50.css.map",
+    "main.d72c5fef.js.map": "/MaulaveStephane/static/js/main.d72c5fef.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b6a21c0.css",
-    "static/js/main.9f1e65eb.js"
+    "static/css/main.a0b50d50.css",
+    "static/js/main.d72c5fef.js"
   ]
 }
