@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MaulaveStephane/static/css/main.39a221cd.css",
-    "main.js": "/MaulaveStephane/static/js/main.d72c5fef.js",
+    "main.css": "/MaulaveStephane/static/css/main.4aa2a8b9.css",
+    "main.js": "/MaulaveStephane/static/js/main.9ce9ccd4.js",
     "static/media/hero-background.jpg": "/MaulaveStephane/static/media/hero-background.321652d72f741d1c45b0.jpg",
     "static/media/fa-solid-900.ttf": "/MaulaveStephane/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/anim_screenshot.png": "/MaulaveStephane/static/media/anim_screenshot.2ce6d89df9ecf3e2acdd.png",
@@ -64,11 +64,11 @@
     "index.html": "/MaulaveStephane/index.html",
     "static/media/question.svg": "/MaulaveStephane/static/media/question.265092aedf4bcdd5b8bd6b1cdd822681.svg",
     "static/media/right-chevron.svg": "/MaulaveStephane/static/media/right-chevron.32d2551ab7b1b6e5ea74710cd070a674.svg",
-    "main.39a221cd.css.map": "/MaulaveStephane/static/css/main.39a221cd.css.map",
-    "main.d72c5fef.js.map": "/MaulaveStephane/static/js/main.d72c5fef.js.map"
+    "main.4aa2a8b9.css.map": "/MaulaveStephane/static/css/main.4aa2a8b9.css.map",
+    "main.9ce9ccd4.js.map": "/MaulaveStephane/static/js/main.9ce9ccd4.js.map"
   },
   "entrypoints": [
-    "static/css/main.39a221cd.css",
-    "static/js/main.d72c5fef.js"
+    "static/css/main.4aa2a8b9.css",
+    "static/js/main.9ce9ccd4.js"
   ]
 }
