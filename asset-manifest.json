@@ -1,9 +1,14 @@
 {
   "files": {
-    "main.css": "/MaulaveStephane/static/css/main.75277ca8.css",
-    "main.js": "/MaulaveStephane/static/js/main.4b0414d7.js",
+    "main.css": "/MaulaveStephane/static/css/main.72df417b.css",
+    "main.js": "/MaulaveStephane/static/js/main.41f5beb4.js",
     "static/media/Shintou_montage.mp4": "/MaulaveStephane/static/media/Shintou_montage.fc85b8f8769bb1fa5129.mp4",
+    "static/media/Red Love RECALL main - Mastered.mp3": "/MaulaveStephane/static/media/Red Love RECALL main - Mastered.e8016e4ce468cb4fb7e5.mp3",
+    "static/media/01 My Alter Echo.mp3": "/MaulaveStephane/static/media/01 My Alter Echo.6b6317d9c21c2fb48b38.mp3",
+    "static/media/02 The High Cab.mp3": "/MaulaveStephane/static/media/02 The High Cab.c52daa20dad1430dac5e.mp3",
+    "static/media/01 Polite bat.mp3": "/MaulaveStephane/static/media/01 Polite bat.b3303e35539d7f57ed1d.mp3",
     "static/media/hero-background.jpg": "/MaulaveStephane/static/media/hero-background.321652d72f741d1c45b0.jpg",
+    "static/media/audio_screenshot.png": "/MaulaveStephane/static/media/audio_screenshot.b64a53f66e3c2a13f9a9.png",
     "static/media/fa-solid-900.ttf": "/MaulaveStephane/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/anim_screenshot.png": "/MaulaveStephane/static/media/anim_screenshot.2ce6d89df9ecf3e2acdd.png",
     "static/media/scroll_screenshot.png": "/MaulaveStephane/static/media/scroll_screenshot.b21f3e12779603460d36.png",
@@ -23,7 +28,6 @@
     "static/media/side-3.jpg": "/MaulaveStephane/static/media/side-3.dfc8f0c65b29f5bb1130.jpg",
     "static/media/113-urgence.webp": "/MaulaveStephane/static/media/113-urgence.9115611d04f9e9aefa53.webp",
     "static/media/cookies_screenshot.png": "/MaulaveStephane/static/media/cookies_screenshot.a15b29c4f7a803e8ee46.png",
-    "static/media/audio_screenshot.png": "/MaulaveStephane/static/media/audio_screenshot.1ee2653ede26530a8513.png",
     "static/media/side-2.jpg": "/MaulaveStephane/static/media/side-2.50b92d3202df9aedf830.jpg",
     "static/media/slider_screenshot.png": "/MaulaveStephane/static/media/slider_screenshot.2dcfd3f01f491c3cbb2c.png",
     "static/media/passi-revolution.webp": "/MaulaveStephane/static/media/passi-revolution.5f032a493e003460a323.webp",
@@ -66,11 +70,11 @@
     "index.html": "/MaulaveStephane/index.html",
     "static/media/question.svg": "/MaulaveStephane/static/media/question.265092aedf4bcdd5b8bd6b1cdd822681.svg",
     "static/media/right-chevron.svg": "/MaulaveStephane/static/media/right-chevron.32d2551ab7b1b6e5ea74710cd070a674.svg",
-    "main.75277ca8.css.map": "/MaulaveStephane/static/css/main.75277ca8.css.map",
-    "main.4b0414d7.js.map": "/MaulaveStephane/static/js/main.4b0414d7.js.map"
+    "main.72df417b.css.map": "/MaulaveStephane/static/css/main.72df417b.css.map",
+    "main.41f5beb4.js.map": "/MaulaveStephane/static/js/main.41f5beb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.75277ca8.css",
-    "static/js/main.4b0414d7.js"
+    "static/css/main.72df417b.css",
+    "static/js/main.41f5beb4.js"
   ]
 }
