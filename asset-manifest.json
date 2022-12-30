@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MaulaveStephane/static/css/main.0dc9d48a.css",
-    "main.js": "/MaulaveStephane/static/js/main.ce4268fc.js",
+    "main.css": "/MaulaveStephane/static/css/main.854dc818.css",
+    "main.js": "/MaulaveStephane/static/js/main.4a1ec164.js",
     "static/media/Shintou_montage.mp4": "/MaulaveStephane/static/media/Shintou_montage.fc85b8f8769bb1fa5129.mp4",
     "static/media/Red Love RECALL main - Mastered.mp3": "/MaulaveStephane/static/media/Red Love RECALL main - Mastered.e8016e4ce468cb4fb7e5.mp3",
     "static/media/01 My Alter Echo.mp3": "/MaulaveStephane/static/media/01 My Alter Echo.6b6317d9c21c2fb48b38.mp3",
@@ -70,11 +70,11 @@
     "index.html": "/MaulaveStephane/index.html",
     "static/media/question.svg": "/MaulaveStephane/static/media/question.265092aedf4bcdd5b8bd6b1cdd822681.svg",
     "static/media/right-chevron.svg": "/MaulaveStephane/static/media/right-chevron.32d2551ab7b1b6e5ea74710cd070a674.svg",
-    "main.0dc9d48a.css.map": "/MaulaveStephane/static/css/main.0dc9d48a.css.map",
-    "main.ce4268fc.js.map": "/MaulaveStephane/static/js/main.ce4268fc.js.map"
+    "main.854dc818.css.map": "/MaulaveStephane/static/css/main.854dc818.css.map",
+    "main.4a1ec164.js.map": "/MaulaveStephane/static/js/main.4a1ec164.js.map"
   },
   "entrypoints": [
-    "static/css/main.0dc9d48a.css",
-    "static/js/main.ce4268fc.js"
+    "static/css/main.854dc818.css",
+    "static/js/main.4a1ec164.js"
   ]
 }
