@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MaulaveStephane/static/css/main.6d0b5ced.css",
-    "main.js": "/MaulaveStephane/static/js/main.1efb00af.js",
+    "main.css": "/MaulaveStephane/static/css/main.e9aeb3d2.css",
+    "main.js": "/MaulaveStephane/static/js/main.ee1cae4d.js",
     "static/media/Shintou_montage.mp4": "/MaulaveStephane/static/media/Shintou_montage.fc85b8f8769bb1fa5129.mp4",
     "static/media/Red Love RECALL main - Mastered.mp3": "/MaulaveStephane/static/media/Red Love RECALL main - Mastered.e8016e4ce468cb4fb7e5.mp3",
     "static/media/01 My Alter Echo.mp3": "/MaulaveStephane/static/media/01 My Alter Echo.6b6317d9c21c2fb48b38.mp3",
@@ -15,18 +15,20 @@
     "static/media/wiki-logo.png": "/MaulaveStephane/static/media/wiki-logo.8ee14a5860937d272c3b.png",
     "static/media/Montserrat-Regular.ttf": "/MaulaveStephane/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
     "static/media/fa-brands-400.ttf": "/MaulaveStephane/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/video_screenshot.png": "/MaulaveStephane/static/media/video_screenshot.64ac4cbbf0926dd7fa5a.png",
     "static/media/fa-solid-900.woff2": "/MaulaveStephane/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
     "static/media/calculate_screenshot.png": "/MaulaveStephane/static/media/calculate_screenshot.faa22976a3fcc3633a17.png",
     "static/media/vertical-porsche.jpg": "/MaulaveStephane/static/media/vertical-porsche.8c2335046aab30c04860.jpg",
     "static/media/Quizz_screenshot.png": "/MaulaveStephane/static/media/Quizz_screenshot.0cfdc85d814ac4e4ef71.png",
     "static/media/capture-code.webp": "/MaulaveStephane/static/media/capture-code.1cea7cfaf5e0add86856.webp",
-    "static/media/video_screenshot.png": "/MaulaveStephane/static/media/video_screenshot.a8b73b99a3cb13b02d29.png",
     "static/media/fa-brands-400.woff2": "/MaulaveStephane/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/nasa_screenshot.png": "/MaulaveStephane/static/media/nasa_screenshot.c6950c95abaa15175d38.png",
     "static/media/filtre_screenshot.png": "/MaulaveStephane/static/media/filtre_screenshot.e8379c7b9106448d30ab.png",
     "static/media/wiki_screenshot.png": "/MaulaveStephane/static/media/wiki_screenshot.1fd52d75a90444f04495.png",
     "static/media/photo_profil.webp": "/MaulaveStephane/static/media/photo_profil.252a1924b97220836610.webp",
     "static/media/side-3.jpg": "/MaulaveStephane/static/media/side-3.dfc8f0c65b29f5bb1130.jpg",
     "static/media/113-urgence.webp": "/MaulaveStephane/static/media/113-urgence.9115611d04f9e9aefa53.webp",
+    "static/media/primes_numbers.png": "/MaulaveStephane/static/media/primes_numbers.d5bde38aaaaf9f8c6112.png",
     "static/media/cookies_screenshot.png": "/MaulaveStephane/static/media/cookies_screenshot.a15b29c4f7a803e8ee46.png",
     "static/media/side-2.jpg": "/MaulaveStephane/static/media/side-2.50b92d3202df9aedf830.jpg",
     "static/media/slider_screenshot.png": "/MaulaveStephane/static/media/slider_screenshot.2dcfd3f01f491c3cbb2c.png",
@@ -70,11 +72,11 @@
     "index.html": "/MaulaveStephane/index.html",
     "static/media/question.svg": "/MaulaveStephane/static/media/question.265092aedf4bcdd5b8bd6b1cdd822681.svg",
     "static/media/right-chevron.svg": "/MaulaveStephane/static/media/right-chevron.32d2551ab7b1b6e5ea74710cd070a674.svg",
-    "main.6d0b5ced.css.map": "/MaulaveStephane/static/css/main.6d0b5ced.css.map",
-    "main.1efb00af.js.map": "/MaulaveStephane/static/js/main.1efb00af.js.map"
+    "main.e9aeb3d2.css.map": "/MaulaveStephane/static/css/main.e9aeb3d2.css.map",
+    "main.ee1cae4d.js.map": "/MaulaveStephane/static/js/main.ee1cae4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d0b5ced.css",
-    "static/js/main.1efb00af.js"
+    "static/css/main.e9aeb3d2.css",
+    "static/js/main.ee1cae4d.js"
   ]
 }
