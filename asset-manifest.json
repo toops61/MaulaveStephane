@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MaulaveStephane/static/css/main.adf5cb42.css",
-    "main.js": "/MaulaveStephane/static/js/main.0dae0ebe.js",
+    "main.css": "/MaulaveStephane/static/css/main.cafd56b2.css",
+    "main.js": "/MaulaveStephane/static/js/main.8962dfdf.js",
     "static/media/Shintou_montage.mp4": "/MaulaveStephane/static/media/Shintou_montage.fc85b8f8769bb1fa5129.mp4",
     "static/media/Red Love RECALL main - Mastered.mp3": "/MaulaveStephane/static/media/Red Love RECALL main - Mastered.e8016e4ce468cb4fb7e5.mp3",
     "static/media/01 My Alter Echo.mp3": "/MaulaveStephane/static/media/01 My Alter Echo.6b6317d9c21c2fb48b38.mp3",
@@ -59,6 +59,7 @@
     "static/media/fa-regular-400.woff2": "/MaulaveStephane/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
     "static/media/Orbitron-Regular.ttf": "/MaulaveStephane/static/media/Orbitron-Regular.23a1d6c3def1d738a011.ttf",
     "static/media/micro.webp": "/MaulaveStephane/static/media/micro.391c0023fc4a7ce2d405.webp",
+    "static/media/converter_screenshot.png": "/MaulaveStephane/static/media/converter_screenshot.ac79bf96255445433975.png",
     "static/media/seipra.webp": "/MaulaveStephane/static/media/seipra.2a1e6b7af5c801167051.webp",
     "static/media/logo.svg": "/MaulaveStephane/static/media/logo.66758399c29ad882ea6ff6fb19d0bf4c.svg",
     "static/media/3.svg": "/MaulaveStephane/static/media/3.86b42c1c08d3a4edf31d8c1e7c9c596b.svg",
@@ -72,11 +73,11 @@
     "index.html": "/MaulaveStephane/index.html",
     "static/media/question.svg": "/MaulaveStephane/static/media/question.265092aedf4bcdd5b8bd6b1cdd822681.svg",
     "static/media/right-chevron.svg": "/MaulaveStephane/static/media/right-chevron.32d2551ab7b1b6e5ea74710cd070a674.svg",
-    "main.adf5cb42.css.map": "/MaulaveStephane/static/css/main.adf5cb42.css.map",
-    "main.0dae0ebe.js.map": "/MaulaveStephane/static/js/main.0dae0ebe.js.map"
+    "main.cafd56b2.css.map": "/MaulaveStephane/static/css/main.cafd56b2.css.map",
+    "main.8962dfdf.js.map": "/MaulaveStephane/static/js/main.8962dfdf.js.map"
   },
   "entrypoints": [
-    "static/css/main.adf5cb42.css",
-    "static/js/main.0dae0ebe.js"
+    "static/css/main.cafd56b2.css",
+    "static/js/main.8962dfdf.js"
   ]
 }
