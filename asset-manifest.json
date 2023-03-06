@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MaulaveStephane/static/css/main.68a1566a.css",
-    "main.js": "/MaulaveStephane/static/js/main.44f70142.js",
+    "main.css": "/MaulaveStephane/static/css/main.1aa82c2f.css",
+    "main.js": "/MaulaveStephane/static/js/main.dac9af3d.js",
     "static/media/Shintou_montage.mp4": "/MaulaveStephane/static/media/Shintou_montage.fc85b8f8769bb1fa5129.mp4",
     "static/media/Red Love RECALL main - Mastered.mp3": "/MaulaveStephane/static/media/Red Love RECALL main - Mastered.e8016e4ce468cb4fb7e5.mp3",
     "static/media/01 My Alter Echo.mp3": "/MaulaveStephane/static/media/01 My Alter Echo.6b6317d9c21c2fb48b38.mp3",
@@ -25,7 +25,6 @@
     "static/media/nasa_screenshot.png": "/MaulaveStephane/static/media/nasa_screenshot.c6950c95abaa15175d38.png",
     "static/media/filtre_screenshot.png": "/MaulaveStephane/static/media/filtre_screenshot.e8379c7b9106448d30ab.png",
     "static/media/wiki_screenshot.png": "/MaulaveStephane/static/media/wiki_screenshot.1fd52d75a90444f04495.png",
-    "static/media/photo_profil.webp": "/MaulaveStephane/static/media/photo_profil.252a1924b97220836610.webp",
     "static/media/side-3.jpg": "/MaulaveStephane/static/media/side-3.dfc8f0c65b29f5bb1130.jpg",
     "static/media/113-urgence.webp": "/MaulaveStephane/static/media/113-urgence.9115611d04f9e9aefa53.webp",
     "static/media/primes_numbers.png": "/MaulaveStephane/static/media/primes_numbers.d5bde38aaaaf9f8c6112.png",
@@ -36,6 +35,7 @@
     "static/media/memory_screenshot.png": "/MaulaveStephane/static/media/memory_screenshot.3195a10e4c922b758cc0.png",
     "static/media/particules_screenshot.png": "/MaulaveStephane/static/media/particules_screenshot.57e4fd0a263fa04fc8eb.png",
     "static/media/fa-regular-400.ttf": "/MaulaveStephane/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/clavier_mac960.webp": "/MaulaveStephane/static/media/clavier_mac960.aefe81ca9a63ea935d4b.webp",
     "static/media/logo_K_rouge.webp": "/MaulaveStephane/static/media/logo_K_rouge.991a29a67dcfa084cef7.webp",
     "static/media/morpion_screenshot.png": "/MaulaveStephane/static/media/morpion_screenshot.dfe99b4a44e34df6d074.png",
     "static/media/bisso.webp": "/MaulaveStephane/static/media/bisso.04d926e54c48d7ccd2c9.webp",
@@ -73,11 +73,11 @@
     "index.html": "/MaulaveStephane/index.html",
     "static/media/question.svg": "/MaulaveStephane/static/media/question.265092aedf4bcdd5b8bd6b1cdd822681.svg",
     "static/media/right-chevron.svg": "/MaulaveStephane/static/media/right-chevron.32d2551ab7b1b6e5ea74710cd070a674.svg",
-    "main.68a1566a.css.map": "/MaulaveStephane/static/css/main.68a1566a.css.map",
-    "main.44f70142.js.map": "/MaulaveStephane/static/js/main.44f70142.js.map"
+    "main.1aa82c2f.css.map": "/MaulaveStephane/static/css/main.1aa82c2f.css.map",
+    "main.dac9af3d.js.map": "/MaulaveStephane/static/js/main.dac9af3d.js.map"
   },
   "entrypoints": [
-    "static/css/main.68a1566a.css",
-    "static/js/main.44f70142.js"
+    "static/css/main.1aa82c2f.css",
+    "static/js/main.dac9af3d.js"
   ]
 }
