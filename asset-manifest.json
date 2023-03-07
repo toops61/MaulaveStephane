@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MaulaveStephane/static/css/main.1aa82c2f.css",
-    "main.js": "/MaulaveStephane/static/js/main.dac9af3d.js",
+    "main.css": "/MaulaveStephane/static/css/main.c6468935.css",
+    "main.js": "/MaulaveStephane/static/js/main.b18af74c.js",
     "static/media/Shintou_montage.mp4": "/MaulaveStephane/static/media/Shintou_montage.fc85b8f8769bb1fa5129.mp4",
     "static/media/Red Love RECALL main - Mastered.mp3": "/MaulaveStephane/static/media/Red Love RECALL main - Mastered.e8016e4ce468cb4fb7e5.mp3",
     "static/media/01 My Alter Echo.mp3": "/MaulaveStephane/static/media/01 My Alter Echo.6b6317d9c21c2fb48b38.mp3",
@@ -60,7 +60,7 @@
     "static/media/Orbitron-Regular.ttf": "/MaulaveStephane/static/media/Orbitron-Regular.23a1d6c3def1d738a011.ttf",
     "static/media/micro.webp": "/MaulaveStephane/static/media/micro.391c0023fc4a7ce2d405.webp",
     "static/media/converter_screenshot.png": "/MaulaveStephane/static/media/converter_screenshot.ac79bf96255445433975.png",
-    "static/media/seipra.webp": "/MaulaveStephane/static/media/seipra.2a1e6b7af5c801167051.webp",
+    "static/media/seipra.webp": "/MaulaveStephane/static/media/seipra.5695f97b4cb6f6547ad5.webp",
     "static/media/logo.svg": "/MaulaveStephane/static/media/logo.66758399c29ad882ea6ff6fb19d0bf4c.svg",
     "static/media/3.svg": "/MaulaveStephane/static/media/3.86b42c1c08d3a4edf31d8c1e7c9c596b.svg",
     "static/media/server.svg": "/MaulaveStephane/static/media/server.79440717ac2363eb6d6a1622ed2ca7b3.svg",
@@ -73,11 +73,11 @@
     "index.html": "/MaulaveStephane/index.html",
     "static/media/question.svg": "/MaulaveStephane/static/media/question.265092aedf4bcdd5b8bd6b1cdd822681.svg",
     "static/media/right-chevron.svg": "/MaulaveStephane/static/media/right-chevron.32d2551ab7b1b6e5ea74710cd070a674.svg",
-    "main.1aa82c2f.css.map": "/MaulaveStephane/static/css/main.1aa82c2f.css.map",
-    "main.dac9af3d.js.map": "/MaulaveStephane/static/js/main.dac9af3d.js.map"
+    "main.c6468935.css.map": "/MaulaveStephane/static/css/main.c6468935.css.map",
+    "main.b18af74c.js.map": "/MaulaveStephane/static/js/main.b18af74c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1aa82c2f.css",
-    "static/js/main.dac9af3d.js"
+    "static/css/main.c6468935.css",
+    "static/js/main.b18af74c.js"
   ]
 }
