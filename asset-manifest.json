@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MaulaveStephane/static/css/main.c6468935.css",
-    "main.js": "/MaulaveStephane/static/js/main.8f4bd027.js",
+    "main.css": "/MaulaveStephane/static/css/main.ca2f0083.css",
+    "main.js": "/MaulaveStephane/static/js/main.1c74aa4a.js",
     "static/media/Shintou_montage.mp4": "/MaulaveStephane/static/media/Shintou_montage.fc85b8f8769bb1fa5129.mp4",
     "static/media/Red Love RECALL main - Mastered.mp3": "/MaulaveStephane/static/media/Red Love RECALL main - Mastered.e8016e4ce468cb4fb7e5.mp3",
     "static/media/01 My Alter Echo.mp3": "/MaulaveStephane/static/media/01 My Alter Echo.6b6317d9c21c2fb48b38.mp3",
@@ -41,6 +41,7 @@
     "static/media/bisso.webp": "/MaulaveStephane/static/media/bisso.04d926e54c48d7ccd2c9.webp",
     "static/media/side-1.jpg": "/MaulaveStephane/static/media/side-1.889413005e5e11194636.jpg",
     "static/media/topdepart.webp": "/MaulaveStephane/static/media/topdepart.c821932e78b1955c929f.webp",
+    "static/media/06_SDB.webp": "/MaulaveStephane/static/media/06_SDB.144dbd3b99f42e1d7312.webp",
     "static/media/hiphopee1.webp": "/MaulaveStephane/static/media/hiphopee1.60dc1e2ee2a18ecc58d8.webp",
     "static/media/Grave-dans-la-roche.webp": "/MaulaveStephane/static/media/Grave-dans-la-roche.e45ec7f9453ec1cc7a25.webp",
     "static/media/passi-evolution.webp": "/MaulaveStephane/static/media/passi-evolution.e6337537ca978dd7b916.webp",
@@ -54,12 +55,19 @@
     "static/media/form_screenshot.png": "/MaulaveStephane/static/media/form_screenshot.96ae4a450785590bef10.png",
     "static/media/djmehdi-storyofespion.webp": "/MaulaveStephane/static/media/djmehdi-storyofespion.aa6af76d463995d2c9d5.webp",
     "static/media/ecran-LCD.webp": "/MaulaveStephane/static/media/ecran-LCD.57b216a185add31c7a6d.webp",
+    "static/media/01_bayonne_embarques.webp": "/MaulaveStephane/static/media/01_bayonne_embarques.2dccf5a9725f2c95633a.webp",
+    "static/media/08_quais-metro2.webp": "/MaulaveStephane/static/media/08_quais-metro2.aeb507eaf1d06b90ecfa.webp",
     "static/media/vinyl2.webp": "/MaulaveStephane/static/media/vinyl2.87d396f0d52030f1c730.webp",
+    "static/media/02_Bayonne2.webp": "/MaulaveStephane/static/media/02_Bayonne2.71f7ad4a26b10e038c83.webp",
+    "static/media/03_Bayonne_BIV.webp": "/MaulaveStephane/static/media/03_Bayonne_BIV.1cc99843665063f1875c.webp",
     "static/media/ministereJohnny.webp": "/MaulaveStephane/static/media/ministereJohnny.3732bf9d53d38eb942c1.webp",
     "static/media/fa-regular-400.woff2": "/MaulaveStephane/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
     "static/media/Orbitron-Regular.ttf": "/MaulaveStephane/static/media/Orbitron-Regular.23a1d6c3def1d738a011.ttf",
     "static/media/micro.webp": "/MaulaveStephane/static/media/micro.391c0023fc4a7ce2d405.webp",
+    "static/media/05_teleo-meteo.webp": "/MaulaveStephane/static/media/05_teleo-meteo.c637a4c42c98ee8ebd6b.webp",
     "static/media/converter_screenshot.png": "/MaulaveStephane/static/media/converter_screenshot.ac79bf96255445433975.png",
+    "static/media/04_teleo.webp": "/MaulaveStephane/static/media/04_teleo.064551f64f5056d79411.webp",
+    "static/media/07_quais-metro1.webp": "/MaulaveStephane/static/media/07_quais-metro1.eb50b8a2683731ae9abd.webp",
     "static/media/seipra.webp": "/MaulaveStephane/static/media/seipra.5695f97b4cb6f6547ad5.webp",
     "static/media/logo.svg": "/MaulaveStephane/static/media/logo.66758399c29ad882ea6ff6fb19d0bf4c.svg",
     "static/media/3.svg": "/MaulaveStephane/static/media/3.86b42c1c08d3a4edf31d8c1e7c9c596b.svg",
@@ -73,11 +81,11 @@
     "index.html": "/MaulaveStephane/index.html",
     "static/media/question.svg": "/MaulaveStephane/static/media/question.265092aedf4bcdd5b8bd6b1cdd822681.svg",
     "static/media/right-chevron.svg": "/MaulaveStephane/static/media/right-chevron.32d2551ab7b1b6e5ea74710cd070a674.svg",
-    "main.c6468935.css.map": "/MaulaveStephane/static/css/main.c6468935.css.map",
-    "main.8f4bd027.js.map": "/MaulaveStephane/static/js/main.8f4bd027.js.map"
+    "main.ca2f0083.css.map": "/MaulaveStephane/static/css/main.ca2f0083.css.map",
+    "main.1c74aa4a.js.map": "/MaulaveStephane/static/js/main.1c74aa4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6468935.css",
-    "static/js/main.8f4bd027.js"
+    "static/css/main.ca2f0083.css",
+    "static/js/main.1c74aa4a.js"
   ]
 }
