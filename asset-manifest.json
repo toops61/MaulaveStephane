@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/MaulaveStephane/static/css/main.5b30689c.css",
-    "main.js": "/MaulaveStephane/static/js/main.457f17ac.js",
+    "main.css": "/MaulaveStephane/static/css/main.d8f49fb5.css",
+    "main.js": "/MaulaveStephane/static/js/main.111e322e.js",
     "static/media/Shintou_montage.mp4": "/MaulaveStephane/static/media/Shintou_montage.fc85b8f8769bb1fa5129.mp4",
     "static/media/Red Love RECALL main - Mastered.mp3": "/MaulaveStephane/static/media/Red Love RECALL main - Mastered.e8016e4ce468cb4fb7e5.mp3",
     "static/media/01 My Alter Echo.mp3": "/MaulaveStephane/static/media/01 My Alter Echo.6b6317d9c21c2fb48b38.mp3",
     "static/media/00 The High Cab.mp3": "/MaulaveStephane/static/media/00 The High Cab.4330b5df81b3a0379113.mp3",
     "static/media/01 Polite bat.mp3": "/MaulaveStephane/static/media/01 Polite bat.b3303e35539d7f57ed1d.mp3",
+    "static/media/books_landscape.jpg": "/MaulaveStephane/static/media/books_landscape.0fe9e8f3d2096ed0e19c.jpg",
+    "static/media/books_portrait.jpg": "/MaulaveStephane/static/media/books_portrait.e9e13a90dca84f05512e.jpg",
+    "static/media/books_screenshot.png": "/MaulaveStephane/static/media/books_screenshot.2c2e0d4e40a61a207d91.png",
     "static/media/hero-background.jpg": "/MaulaveStephane/static/media/hero-background.321652d72f741d1c45b0.jpg",
     "static/media/audio_screenshot.png": "/MaulaveStephane/static/media/audio_screenshot.b64a53f66e3c2a13f9a9.png",
     "static/media/fa-solid-900.ttf": "/MaulaveStephane/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
@@ -107,6 +110,7 @@
     "static/media/02_TELEO_temps_attente_P_Sabatier.webp": "/MaulaveStephane/static/media/02_TELEO_temps_attente_P_Sabatier.bbab42dedccc223e37b7.webp",
     "static/media/08_terminus.webp": "/MaulaveStephane/static/media/08_terminus.55754c0be3ae0cb0c8b4.webp",
     "static/media/04_TELEO_temps_2min.webp": "/MaulaveStephane/static/media/04_TELEO_temps_2min.378b6e117c90b2599e99.webp",
+    "static/media/flags_screenshot.png": "/MaulaveStephane/static/media/flags_screenshot.a51884dc27507e0a137e.png",
     "static/media/03_TELEO_temps_attente_Oncopole.webp": "/MaulaveStephane/static/media/03_TELEO_temps_attente_Oncopole.801e993a97e41161cae2.webp",
     "static/media/18_fin_service2.webp": "/MaulaveStephane/static/media/18_fin_service2.b4e2adde71e4e60613cb.webp",
     "static/media/ministereJohnny.webp": "/MaulaveStephane/static/media/ministereJohnny.3732bf9d53d38eb942c1.webp",
@@ -143,11 +147,11 @@
     "index.html": "/MaulaveStephane/index.html",
     "static/media/question.svg": "/MaulaveStephane/static/media/question.265092aedf4bcdd5b8bd6b1cdd822681.svg",
     "static/media/right-chevron.svg": "/MaulaveStephane/static/media/right-chevron.32d2551ab7b1b6e5ea74710cd070a674.svg",
-    "main.5b30689c.css.map": "/MaulaveStephane/static/css/main.5b30689c.css.map",
-    "main.457f17ac.js.map": "/MaulaveStephane/static/js/main.457f17ac.js.map"
+    "main.d8f49fb5.css.map": "/MaulaveStephane/static/css/main.d8f49fb5.css.map",
+    "main.111e322e.js.map": "/MaulaveStephane/static/js/main.111e322e.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b30689c.css",
-    "static/js/main.457f17ac.js"
+    "static/css/main.d8f49fb5.css",
+    "static/js/main.111e322e.js"
   ]
 }
