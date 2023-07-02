@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MaulaveStephane/static/css/main.389b8867.css",
-    "main.js": "/MaulaveStephane/static/js/main.905132a9.js",
+    "main.css": "/MaulaveStephane/static/css/main.e2d3bca3.css",
+    "main.js": "/MaulaveStephane/static/js/main.9e7c3321.js",
     "static/media/Shintou_montage.mp4": "/MaulaveStephane/static/media/Shintou_montage.fc85b8f8769bb1fa5129.mp4",
     "static/media/Red Love RECALL main - Mastered.mp3": "/MaulaveStephane/static/media/Red Love RECALL main - Mastered.e8016e4ce468cb4fb7e5.mp3",
     "static/media/01 My Alter Echo.mp3": "/MaulaveStephane/static/media/01 My Alter Echo.6b6317d9c21c2fb48b38.mp3",
@@ -14,6 +14,7 @@
     "static/media/audio_screenshot.png": "/MaulaveStephane/static/media/audio_screenshot.b64a53f66e3c2a13f9a9.png",
     "static/media/fa-solid-900.ttf": "/MaulaveStephane/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/anim_screenshot.png": "/MaulaveStephane/static/media/anim_screenshot.2ce6d89df9ecf3e2acdd.png",
+    "static/media/nasa_screenshot.png": "/MaulaveStephane/static/media/nasa_screenshot.9f423060559eea2ffa8c.png",
     "static/media/scroll_screenshot.png": "/MaulaveStephane/static/media/scroll_screenshot.b21f3e12779603460d36.png",
     "static/media/wiki-logo.png": "/MaulaveStephane/static/media/wiki-logo.8ee14a5860937d272c3b.png",
     "static/media/Montserrat-Regular.ttf": "/MaulaveStephane/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
@@ -27,7 +28,6 @@
     "static/media/10_SDB_alerte_saut_ligne2.webp": "/MaulaveStephane/static/media/10_SDB_alerte_saut_ligne2.8ba9c96231b8cca0fbf7.webp",
     "static/media/04_SDB_destination_47px.webp": "/MaulaveStephane/static/media/04_SDB_destination_47px.4776dee5806f9cb163f1.webp",
     "static/media/fa-brands-400.woff2": "/MaulaveStephane/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
-    "static/media/nasa_screenshot.png": "/MaulaveStephane/static/media/nasa_screenshot.c6950c95abaa15175d38.png",
     "static/media/filtre_screenshot.png": "/MaulaveStephane/static/media/filtre_screenshot.e8379c7b9106448d30ab.png",
     "static/media/wiki_screenshot.png": "/MaulaveStephane/static/media/wiki_screenshot.1fd52d75a90444f04495.png",
     "static/media/03_SDB_destination_55px.webp": "/MaulaveStephane/static/media/03_SDB_destination_55px.211d090d3f5198ca99b0.webp",
@@ -76,6 +76,7 @@
     "static/media/10_evacuation.webp": "/MaulaveStephane/static/media/10_evacuation.c89fe365f42d6d672a36.webp",
     "static/media/13_TELEO_service_arrete.webp": "/MaulaveStephane/static/media/13_TELEO_service_arrete.ed12a119fda471e74baa.webp",
     "static/media/113-fout.webp": "/MaulaveStephane/static/media/113-fout.6a45a0ea522eaae80010.webp",
+    "static/media/NASA_logo.png": "/MaulaveStephane/static/media/NASA_logo.f0cbb911712a1c71f278.png",
     "static/media/frappe_screenshot.png": "/MaulaveStephane/static/media/frappe_screenshot.9bfaa5d24ea3c358bfa3.png",
     "static/media/01_degrade.webp": "/MaulaveStephane/static/media/01_degrade.96a3da841862935bc02d.webp",
     "static/media/14_exemples_alerte1.webp": "/MaulaveStephane/static/media/14_exemples_alerte1.8d157d8cf6e8c6e8e614.webp",
@@ -147,11 +148,11 @@
     "index.html": "/MaulaveStephane/index.html",
     "static/media/question.svg": "/MaulaveStephane/static/media/question.265092aedf4bcdd5b8bd6b1cdd822681.svg",
     "static/media/right-chevron.svg": "/MaulaveStephane/static/media/right-chevron.32d2551ab7b1b6e5ea74710cd070a674.svg",
-    "main.389b8867.css.map": "/MaulaveStephane/static/css/main.389b8867.css.map",
-    "main.905132a9.js.map": "/MaulaveStephane/static/js/main.905132a9.js.map"
+    "main.e2d3bca3.css.map": "/MaulaveStephane/static/css/main.e2d3bca3.css.map",
+    "main.9e7c3321.js.map": "/MaulaveStephane/static/js/main.9e7c3321.js.map"
   },
   "entrypoints": [
-    "static/css/main.389b8867.css",
-    "static/js/main.905132a9.js"
+    "static/css/main.e2d3bca3.css",
+    "static/js/main.9e7c3321.js"
   ]
 }
